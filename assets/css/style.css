@@ -1,3 +1,4 @@
+/* Setting defaults across the whole page*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,8 +51,7 @@ p {
     font-size: 16px;
 }
 
-/* Image of marketing meeting possitioned below nav
-*/
+/* Image of marketing meeting possitioned below nav */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +61,7 @@ p {
     background-position: center;
 }
 
+/* float left and right a classes to align */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/* Conntect 75% width and benefits 20% leaving 5% gap*/
 .content {
     width: 75%;
     display: inline-block;
@@ -98,7 +100,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-cost {
+.benefit-cost {s
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -162,6 +164,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* setting max height of images*/
 
 .search-engine-optimization img {
     max-height: 200px;
