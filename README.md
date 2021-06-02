@@ -6,6 +6,7 @@ Refactored website giving it HTML Semantic Elements for accessibility and SEO.
 * Added alts to img elements. 
 * Changed div tags to HTML Semantic Elements (Such as section, article, aside).
 * Refactored to have `<h>` tags in sequencial order.
+* Commented code where appropriate. 
 
 
 ## Website deployment
